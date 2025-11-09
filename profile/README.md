@@ -1,3 +1,3 @@
-# BPSKozep
+# BPHS
 
-### A [Budapest School](https://budapestschool.org/) JPP publikus kódjai
+### [Budapest School](https://budapestschool.org/) JPP
